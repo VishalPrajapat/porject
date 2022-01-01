@@ -1,0 +1,26 @@
+#bb{
+   font-family: 'Courier New', Courier, monospace;
+}
+.footer{
+text-align: center;
+position: fixed;
+bottom: 0;
+background-color: grey;
+color: antiquewhite;
+line-height: 3;
+width: 100%;
+font-size: medium;
+}
+.heading{
+    width: 100%;
+    top: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+font-size: medium;
+
+}
+#sp{
+    font-size: large;
+}
+canvas{
+    border: black 5px dashed;
+}
